@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ListaCosic</string>
+
+    <string name="details_title">Detalji</string>
+
+    <string-array name="countries">
+        <item>Hrvatska</item>
+        <item>Slovenija</item>
+        <item>Italija</item>
+        <item>Srbija</item>
+        <item>Crna Gora</item>
+        <item>Albanija</item>
+        <item>Grčka</item>
+        <item>Bosna i Hercegovina</item>
+        <item>Austrija</item>
+        <item>Mađarska</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Hrvatska je europska država, u geopolitičkom smislu srednjoeuropska i sredozemna država, a zemljopisno smještena u južnom dijelu Srednje Europe te u sjevernom dijelu Sredozemlja.
+            Na sjeveru graniči sa Slovenijom i Mađarskom, na istoku sa Srbijom i Bosnom i Hercegovinom, na jugu s Crnom Gorom, dok na zapadu s Italijom ima morsku granicu.</item>
+        <item>Slovenija se nalazi u Srednjoj Europi na dodiru Alpa, Dinarskog gorja, Panonske nizine i Sredozemlja. Klimu čini mješavina alpskog, sredozemnog i kontinentalnog podneblja.
+            Njen podzemni svijet skriva najveličanstvenije podzemne galerije u Europi, a to su Postojnska jama i Škocjanske jame koje su isklesale podzemne vode.</item>
+        <item>Italija je mjesto nastanka Rimskog Carstva, jednog od najvećih carstava starog stoljeća. Barbarske invazije uništile su Zapadno rimsko carstvo i omogućile stvaranje germanskih država na tlu Italije. Bizantsko Carstvo i Franačka
+            su u ranom srednjem vijeku posjedile važne dijelove Italije. Kasnija podjela Italije na male države omogućile su Svetom rimskom carstvu, Francuskoj i Austriji da dominiraju talijanskom politikom.</item>
+        <item>Srbija je europska kontinentalna država smještena u jugoistočnoj Europi. Teritorijem obuhvaća dio Panonske nizine na sjeveru, te je djelomice srednjoeuropska država. Duljina granica Srbije je 2.114,2 km. Na sjeveru graniči s Mađarskom,
+            na zapadu s Hrvatskom i Bosnom i Hercegovinom, na jugozapadu sa Crnom Gorom, na istoku s Rumunjskom i Bugarskom te na jugu s Sjevernom Makedonijom i Kosovom.</item>
+        <item>Temelji crnogorske države su kneževine Duklja i Zeta. Crna Gora je tijekom turske vladavine imala autonomiju, a neovisnost od Osmanskog Carstva joj je potvrđena na Berlinskom kongresu 1878. godine. Od 1918. bila je dio sve tri Jugoslavije. Na referendumu
+            održanom 21. svibnja 2006. godine građani Crne Gore su izglasali nezavisnost i razdruženje sa Srbijom sa ukupno 55,54 % glasova. Neovisnost Crne Gore je proglašena 3. lipnja 2006. godine.</item>
+        <item>Albanija vjerojatno dolazi od antičkog indouropskog korijena *albho, što znači „bijelo“. Od ovog korijena možda potječe i ime Albion, staro ime za Britaniju. Alternativno podrijetlo može biti isto kao i za ime Alpe, ali etimologija ovog naziva nije definitivno utvrđena. Treća varijanta
+            kaže da “Albanija” potiče od latinskog “Alba”. “Albus” znači na latinskom “bijelo” ili “svijetlo”, tako da su Rimljani tako nazivali mijesta gdje se Sunce najprije vidi, po brdovitim mjestima.</item>
+        <item>Grčka je jedna od najstarijih država na svijetu s neobičnom i bogatom poviješću. Naseljena od prapovijesti, bila je plodno tlo za razvoj mnogih kultura od kojih se ističu: Minojska kultura (oko 3000. pr. Kr.), Mikenska kultura (oko 1900. pr. Kr.) i naposljetku Helenske kulture koja je
+            prerasla u antičku kulturu (Stara Grčka) koja je utjecala na razvitak i Europe i Bliskog Istoka.</item>
+        <item>Hrvati, a i Srbi na krajnjem istoku, naselili su se u 7. stoljeću, a većina današnje BiH je bila dio Hrvatske u 9. stoljeću. Uz izuzetak današnjeg istoka Hercegovine i Huma većinom 10.
+            i 11. stoljeća Bosna je sastavni dio hrvatskog kraljevstva. Nakon Pacte Convente i dolaska na vlast dinastije Arpadovića u istočnim dijelovima današnje BiH jačaju devolucijski procesi prema ostatku Hrvatskog kraljevstva. Bosanska
+            </item>
+        <item>Austrija se proteže u smjeru zapad-istok 575 km, a u sjeverno-južnom pravcu 294 km. Oko 60% površine Austrije je brdovito i dio je planinskog vijenca Alpa.[3] Na istočnoj granici prema Češkoj, nalaze se obronci Karpata. Nizine se nalaze istočno i uzduž toka Dunava, te u južnoj Štajerskoj i Gradišće je na rubu Panonske nizine. Ukupno 43% Austrije je pošumljeno.
+        </item>
+        <item>Tradicionalno se vjeruje da je Mađarsku osnovao Kralj Árpád, koji je poveo Mađare u Panonsku nizinu u 9. stoljeću.
+            Mađarsko je kraljevstvo 1000. godine osnovao kralj Stjepan I. Sveti. Prvi pisani zapis na mađarskom jest povelja o utemeljenju opatije u mjestu Tihany.
+            1241. godine Tatari su opustošili zemlju i povukli se nakon godinu dana. Mađarska je napredovala do europske razine pod kraljem Matijom Korvinom (1458. – 1490.).
+        </item>
+    </string-array>
+</resources>

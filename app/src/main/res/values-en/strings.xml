@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaCosic</string>
+
+    <string name="details_title">Details</string>
+
+    <string-array name="countries">
+        <item>Croatia</item>
+        <item>Slovenia</item>
+        <item>Italy</item>
+        <item>Serbia</item>
+        <item>Montenegro</item>
+        <item>Albania</item>
+        <item>Greece</item>
+        <item>Bosnia</item>
+        <item>Austria</item>
+        <item>Hungary</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Croatia is a European country, in geopolitical terms a Central European and Mediterranean country, and geographically located in the southern
+            part of Central Europe and in the northern part of the Mediterranean.
+            It borders Slovenia and Hungary to the north, Serbia and Bosnia and Herzegovina to the east, Montenegro to the south, and Italy to the west.
+        </item>
+        <item>Slovenia is located in Central Europe at the junction of the Alps, the Dinaric Alps, the Pannonian Plain and the Mediterranean. The climate is a
+            mixture of alpine, Mediterranean and continental climates.
+            Its underground world hides the most magnificent underground galleries in Europe, namely the Postojna Cave and the Škocjan Caves, which carved underground waters.
+        </item>
+        <item>Italy is the birthplace of the Roman Empire, one of the largest empires of the ancient century. Barbarian invasions destroyed the Western Roman Empire and enabled the
+            creation of Germanic states on Italian soil. Byzantine Empire and Frankish
+            they occupied important parts of Italy in the early Middle Ages. The later division of Italy into small states allowed the Holy Roman Empire, France, and Austria to dominate Italian politics.
+        </item>
+        <item>Serbia is a European continental country located in Southeast Europe. The territory covers part of the Pannonian Plain in the north, and is partly a Central European country.
+            The length of Serbias borders is 2,114.2 km. It is bordered on the north by Hungary,
+            in the west with Croatia and Bosnia and Herzegovina, in the southwest with Montenegro, in the east with Romania and Bulgaria, and in the south with Northern Macedonia and Kosovo.
+        </item>
+        <item>The foundations of the Montenegrin state are the principalities of Duklja and Zeta. Montenegro had autonomy during Turkish rule, and its independence from the Ottoman Empire
+            was confirmed to it at the Berlin Congress in 1878. From 1918 it was part of all three Yugoslavias. In a referendum
+            held on 21 May 2006, the citizens of Montenegro voted for independence and separation from Serbia with a total of 55.54% of the vote. Montenegros independence was declared on June 3rd, 2006.
+        </item>
+        <item>Albania probably comes from the ancient Indo-European root albho, meaning white. From this root may derive the name Albion, an old name for Britain. The alternative
+            origin may be the same as for the name Alpe, but the etymology of this name has not been definitively established. The third variant
+            says that Albania comes from the Latin Alba. Albus means white or bright in Latin, so the Romans called the places where the sun is first seen, the hilly places.
+        </item>
+        <item>Greece is one of the oldest countries in the world with an unusual and rich history. Inhabited since prehistory, it was a fertile ground for the development of many cultures,
+            of which the Minoan culture (around 3000 BC), the Mycenaean culture (around 1900 BC) and finally the Hellenic culture, which is
+            grew into an ancient culture (Ancient Greece) that influenced the development of both Europe and the Middle East.
+        </item>
+        <item>Croats, as well as Serbs in the Far East, settled in the 7th century, and most of todays BiH was part of Croatia in the 9th century. With the exception of todays east of Herzegovina
+            and Hum, mostly 10.
+            and in the 11th century Bosnia was an integral part of the Croatian kingdom. After the Pact Conventa and the coming to power of the Arpadovic dynasty in the eastern parts of todays BiH,
+            devolutionary processes towards the rest of the Croatian Kingdom intensified.
+        </item>
+        <item>Austria stretches in the west-east direction 575 km, and in the north-south direction 294 km. About 60% of Austrias surface is hilly and part of the Alps.
+             On the eastern border with the Czech Republic, there are the slopes of the Carpathians. The lowlands are located east and along the course of the Danube,
+            and in southern Styria and Burgenland is on the edge of the Pannonian lowlands. A total of 43% of Austria is forested.
+        </item>
+        <item>It is traditionally believed that Hungary was founded by King Árpád, who led the Hungarians to the Pannonian Plain in the 9th century.
+            The Kingdom of Hungary was founded in 1000 by King Stephen I. Saint. The first written record in Hungarian is the charter of the abbey in Tihany.
+            In 1241, the Tatars ravaged the country and withdrew after a year. Hungary advanced to the European level under King Matthias Corvinus (1458-1490).
+        </item>
+    </string-array>
+</resources>

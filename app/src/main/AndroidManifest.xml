@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hr.tvz.android.listacosic">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/umbrella"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/umbrella"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ListaCosic">
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/slide_out_left" />
+
+        <activity
+            android:name=".ThirdActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SecondActivity"
+            android:label="@string/details_title"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaCosic</string>
+
+    <string name="details_title">Einzelheiten</string>
+
+    <string-array name="countries">
+        <item>Kroatien</item>
+        <item>Slowenien</item>
+        <item>Italien</item>
+        <item>Serbien</item>
+        <item>Montenegro</item>
+        <item>Albanien</item>
+        <item>Griechenland</item>
+        <item>Bosnien</item>
+        <item>Österreich</item>
+        <item>Ungarn</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Kroatien ist ein europäisches Land, geopolitisch gesehen ein mitteleuropäisches und mediterranes Land und geografisch im südlichen Teil Mitteleuropas und im nördlichen Teil des Mittelmeers gelegen.
+            Es grenzt im Norden an Slowenien und Ungarn, im Osten an Serbien und Bosnien und Herzegowina, im Süden an Montenegro und im Westen an Italien.
+        </item>
+        <item>Slowenien liegt in Mitteleuropa an der Kreuzung der Alpen, der Dinarischen Alpen, der Pannonischen Ebene und des Mittelmeers. Das Klima ist eine Mischung aus alpinem, mediterranem und kontinentalem Klima.
+            In seiner unterirdischen Welt verbergen sich die prächtigsten unterirdischen Galerien Europas, nämlich die Postojna-Höhle und die Škocjan-Höhlen, in denen unterirdische Gewässer geschnitzt wurden.
+        </item>
+        <item>Italien ist der Geburtsort des Römischen Reiches, eines der größten Reiche des alten Jahrhunderts. Invasionen der Barbaren zerstörten das weströmische Reich und ermöglichten die Schaffung germanischer Staaten auf italienischem Boden.
+            Byzantinisches Reich und Fränkisch
+            Sie besetzten im frühen Mittelalter wichtige Teile Italiens. Die spätere Aufteilung Italiens in kleine Staaten ermöglichte es dem Heiligen Römischen Reich, Frankreich und Österreich, die italienische Politik zu dominieren.
+        </item>
+        <item>Serbien ist ein europäisches Kontinentalland in Südosteuropa. Das Gebiet umfasst einen Teil der Pannonischen Ebene im Norden und ist teilweise ein mitteleuropäisches Land.
+            Die Länge der serbischen Grenzen beträgt 2.114,2 km. Es wird im Norden von Ungarn begrenzt,
+            im Westen mit Kroatien und Bosnien und Herzegowina, im Südwesten mit Montenegro, im Osten mit Rumänien und Bulgarien und im Süden mit Nordmakedonien und dem Kosovo.
+        </item>
+        <item>Die Grundlagen des montenegrinischen Staates sind die Fürstentümer Duklja und Zeta. Montenegro hatte während der türkischen Herrschaft Autonomie, und seine Unabhängigkeit vom Osmanischen Reich wurde ihm 1878 auf dem Berliner Kongress bestätigt.
+            Jahre. Ab 1918 war es Teil aller drei Jugoslawien. In einem Referendum
+            Am 21. Mai 2006 stimmten die Bürger Montenegros mit insgesamt 55,54% der Stimmen für Unabhängigkeit und Trennung von Serbien. Die Unabhängigkeit Montenegros wurde am 3. Juni 2006 erklärt.
+        </item>
+        <item>Albanien stammt wahrscheinlich aus der alten indogermanischen Wurzel * albho, was "weiß" bedeutet. Von dieser Wurzel kann der Name Albion abgeleitet werden, ein alter Name für Großbritannien. Ein alternativer Ursprung kann
+            sei das gleiche wie für den Namen Alpe, aber die Etymologie dieses Namens wurde nicht endgültig festgelegt.
+        </item>
+        <item>Griechenland ist eines der ältesten Länder der Welt mit einer ungewöhnlichen und reichen Geschichte. Seit prähistorischen Zeiten bewohnt, war es ein fruchtbarer Boden für die Entwicklung vieler Kulturen, von denen die folgenden hervorstechen: Minoische Kultur
+            (ca. 3000 v. Chr.), mykenische Kultur (ca. 1900 v. Chr.) und schließlich hellenische Kultur
+        </item>
+        <item>Kroaten sowie Serben im Fernen Osten ließen sich im 7. Jahrhundert nieder, und der größte Teil des heutigen Bosnien und Herzegowina gehörte im 9. Jahrhundert zu Kroatien. Mit Ausnahme des heutigen Ostens von Herzegowina und Hum meist 10.
+            und im 11. Jahrhundert war Bosnien ein wesentlicher Bestandteil des kroatischen Königreichs.
+        </item>
+        <item>Österreich erstreckt sich in West-Ost-Richtung 575 km und in Nord-Süd-Richtung 294 km. Etwa 60% der österreichischen Oberfläche sind hügelig und Teil der Alpen.
+            An der Ostgrenze zur Tschechischen Republik liegen die Hänge der Karpaten. Das Tiefland liegt östlich und entlang des Donauverlaufs
+        </item>
+        <item>Es wird traditionell angenommen, dass Ungarn von König Árpád gegründet wurde, der die Ungarn im 9. Jahrhundert in die pannonische Ebene führte.
+            Das Königreich Ungarn wurde 1000 von König Stephen I. Saint gegründet. Die erste schriftliche Aufzeichnung in ungarischer Sprache ist die Urkunde der Abtei in Tihany.
+        </item>
+    </string-array>
+</resources>
